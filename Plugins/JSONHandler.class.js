@@ -1,5 +1,5 @@
 //JSONHandler.class.js
-const ver_JSONHandler = "20201201.1";
+const ver_JSONHandler = "20210617.1";
 
 //Start
 console.log("JSONHandler", ver_JSONHandler, "loaded");
