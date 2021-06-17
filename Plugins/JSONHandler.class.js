@@ -46,7 +46,8 @@ function JSONHandler(json='') {
 			path.forEach(v => result = result[v]);
 			return result;
 		} catch(e) {
-			console.error("JSONHandler.value", "Error", e.message);	
+			console.error("JSONHandler.value", "Error", e.message);
 		}
+		return undefined;
 	}
 }
