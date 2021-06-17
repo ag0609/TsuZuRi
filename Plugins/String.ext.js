@@ -1,5 +1,5 @@
 //String.ext.js
-let ver_string = "20201214.0";
+let ver_string = "20210615.0";
 console.log("String.extension", ver_string, "loaded");
 
 //escapeRegExp
