@@ -15,6 +15,9 @@
 
 > #### `document.getElementsByClass("currentScreen")[0].getElementsByTagName("canvas")[0]`
 
+- Status
+> Working
+
 - Pros/Cons
   - [x] Easy to understand + Hard to detect = Long lifetime
   - [x] Simulating normal user actions, less risks from your account being **BANNED** (Still have chance if you setup too much page drains)
