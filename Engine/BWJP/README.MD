@@ -1,5 +1,9 @@
 # Bookwalker JP
 
+- Encryption Rank ([Ranking Specification](https://www.bilibili.com/read/cv7181895)[Simplfied Chinese])
+
+> Class A
+
 ## 1. Page Capture
 
 ### Route A
@@ -48,12 +52,12 @@
 > #### Deprecated (Since April-2021, Official updated image_viewer.js)
 
 - Pros/Cons
-  - [x] Faster, Lighter, Accurate
-  - [x] Faster: We know where we go, so we won't wait anyone
-  - [x] Lighter: We left nothing for the book viewer
-  - [x] Accurate: We know which page we are holding, we won't make wrong page
-  - [ ] We **work** quite loudly, __they know what we have done__ (Page contains mutant detector, recorded when we Hijack any script)
-  - [ ] They change the stuff hidding place randomly every certain period
+  - [x] Faster, Lighter, more Accurate
+  - [x] Faster: We know where we go, so we won't wait anyone (viewer call for cache pages and we get them all, no way escape)
+  - [x] Lighter: We left nothing for the book viewer (totally robbed, viewer loaded nothing)
+  - [x] Accurate: We know what we are handling, we won't mix them wrong (rarely to have wrong page rendered)
+  - [ ] We **work** quite loudly, __they know what we have done__ (Page contains mutant observer, recorded when we loaded any script)
+  - [ ] They change codes randomly every certain period
 
 ## 2. Obtain Book Info
 
@@ -62,10 +66,22 @@
 
 > #### `Search Book ID by title / series` => `obtain information from book detail page`
 
+### Route B
+- Flow
+
+> #### `[Encrypted] configuration.json`
+
+- Status
+
+> #### Alternated (`Obtain from NFBR`)
+
 ## 3. Extra
 
 ### a. Contents Table or Bookmarks
 - Flow
 
-> #### `Obtain from NFBR`
+> #### `[Encrypted] configuration.json`
 
+- Status
+
+> #### Alternated (`Obtain from NFBR`)
