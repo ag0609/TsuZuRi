@@ -18,6 +18,7 @@
 - Latest Pointer
 
 > #### `document.getElementsByClass("currentScreen")[0].getElementsByTagName("canvas")[0]`
+> #### `NFBR.a6G.Initializer.F5W.renderer.currentScreen.canvas`
 
 - Status
 > Working
