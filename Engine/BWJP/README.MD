@@ -43,8 +43,7 @@
 
 - Latast Pointer
 
-> #### `NFBR.????` (image_viewer_2.0.17_2021-03-05.js)
-> #### `NFBR.a6G.a5x.prototype.b9b` (viewer_loader_2.0.15_2020-03-05.js)
+> #### `NFBR.a6G.a5x.prototype.U8j` (viewer_image_2.0.17_2021-03-05.js)
 > #### `NFBR.a6G.a5x.prototype.b9b` (viewer_image_2.0.10_2019-09-18.js)
 > #### `NFBR.a6G.a5x.prototype.b0F` (viewer_image_v0.1.10_2018-11-15.js)
 
