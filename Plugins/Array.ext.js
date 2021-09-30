@@ -1,6 +1,6 @@
 //Array.extension
-const version = "";
-console.log("Array Extension ver. "+ version);
+const version = "20201203.0";
+console.log("Array.extension ver. "+ version);
 
 //Array.prototype.uniquify [new define]
 //Usage: Make array values only appears once
