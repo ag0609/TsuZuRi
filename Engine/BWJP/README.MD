@@ -51,7 +51,7 @@
 
 - Status
 
-> #### Deprecated (Since April-2021, Official updated image_viewer.js)
+> #### Working
 
 - Pros/Cons
   - [x] Faster, Lighter, more Accurate
@@ -68,6 +68,10 @@
 
 > #### `Search Book ID by title / series` => `obtain information from book detail page`
 
+- Status
+
+> #### Working for periodly free/trial books
+
 ### Route B
 - Flow
 
@@ -75,7 +79,7 @@
 
 - Status
 
-> #### Alternated (`Obtain from NFBR`)
+> #### Alternated. Working for purchased books, daily 10-minutes novel reading and monthly houdai plan contents (`Obtain from NFBR`)
 
 ## 3. Extra
 
