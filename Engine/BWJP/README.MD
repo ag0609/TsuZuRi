@@ -17,7 +17,7 @@
 
 - Latest Pointer
 
-> #### `document.getElementsByClass("currentScreen")[0].getElementsByTagName("canvas")[0]`
+> #### `$(".currentScreen > canvas")[0]`
 > #### `NFBR.a6G.Initializer.Z4p.renderer.currentScreen.canvas` (viewer_image_2.0.20_2021-10-26.js)
 > #### `NFBR.a6G.Initializer.c8t.renderer.currentScreen.canvas` (viewer_image_2.0.19_2021-09-30.js)
 > #### `NFBR.a6G.Initializer.F5W.renderer.currentScreen.canvas` (viewer_image_2.0.17_2021-03-05.js)
