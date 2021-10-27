@@ -18,6 +18,7 @@
 - Latest Pointer
 
 > #### `document.getElementsByClass("currentScreen")[0].getElementsByTagName("canvas")[0]`
+> #### `NFBR.a6G.Initializer.Z4p.renderer.currentScreen.canvas` (viewer_image_2.0.20_2021-10-26.js)
 > #### `NFBR.a6G.Initializer.c8t.renderer.currentScreen.canvas` (viewer_image_2.0.19_2021-09-30.js)
 > #### `NFBR.a6G.Initializer.F5W.renderer.currentScreen.canvas` (viewer_image_2.0.17_2021-03-05.js)
 
@@ -44,6 +45,7 @@
 
 - Latast Pointer
 
+> #### `NFBR.a6G.a5x.prototype.G1W` (viewer_image_2.0.20_2021-10-26.js)
 > #### `NFBR.a6G.a5x.prototype.S4z` (viewer_image_2.0.19_2021-09-30.js)
 > #### `NFBR.a6G.a5x.prototype.U8j` (viewer_image_2.0.17_2021-03-05.js)
 > #### `NFBR.a6G.a5x.prototype.b9b` (viewer_image_2.0.10_2019-09-18.js)
