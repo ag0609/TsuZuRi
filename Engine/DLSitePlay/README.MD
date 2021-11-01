@@ -1,5 +1,7 @@
 # DLSite Play
 
+[![Install BNDL](https://img.shields.io/badge/Install-BNDL%20(Bootstrap%20Ver.)-green?style=plastic)](https://github.com/ag0609/Project-BNDL/raw/master/BNDL_UserScript/Test/BNDL_PB.user.js)
+
 - Encryption Rank ([Ranking Specification](https://www.bilibili.com/read/cv7181895)[Simplfied Chinese])
 
 > Class B
