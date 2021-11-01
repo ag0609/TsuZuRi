@@ -65,6 +65,33 @@
   - [ ] We **work** quite loudly, __they know what we have done__ (Page contains mutant observer, recorded when we loaded any script)
   - [ ] They change codes randomly every certain period
 
+### Route C
+
+Reference: [@fireattack](https://fireattack.wordpress.com/2021/08/27/a-better-way-to-dump-bookwalker/)
+
+- Flow
+
+> #### `Get puzzled Images from NFBR` => `solve puzzle at local`
+
+- Purpose
+
+> #### It work like `Stealing the whole safe and unlock it at hideout`, the most difficulty part is locating where the safe password hints stores.
+
+- Latast Pointer
+
+> #### Nothing Yet
+
+- Status
+
+> #### Unknown
+
+- Pros/Cons
+  - [x] Fastest, Lightest, most Accurate
+  - [x] Accurate: We know where to grant the puzzle, and the hints for solving puzzle, we won't mix them wrong (no way wrong page rendered)
+  - [x] We **work** sliently, maybe too slient for alerting
+  - [ ] Beware they have planted in puzzled, if you try to share them to others, someday they will trace you out. (userid watermark have been planted in)
+  - [ ] They change codes randomly every certain period
+
 ## 2. Obtain Book Info
 
 ### Route A
