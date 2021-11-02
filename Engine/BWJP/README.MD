@@ -20,9 +20,9 @@
 - Latest Pointer
 
 > #### `$(".currentScreen > canvas")[0]`
-> #### `NFBR.a6G.Initializer.Z4p.renderer.currentScreen.canvas` (viewer_image_2.0.20_2021-10-26.js)
-> #### `NFBR.a6G.Initializer.c8t.renderer.currentScreen.canvas` (viewer_image_2.0.19_2021-09-30.js)
-> #### `NFBR.a6G.Initializer.F5W.renderer.currentScreen.canvas` (viewer_image_2.0.17_2021-03-05.js)
+> #### [![a6G.Initializer.Z4p.renderer.currentScreen.canvas](https://img.shields.io/badge/viewer__image__2.0.20__2021--10--26.js-N%46%42%52.a6G.Initializer.Z4p.renderer.currentScreen.canvas-success?style=plastic)](#)
+> #### [![a6G.Initializer.c8t.renderer.currentScreen.canvas](https://img.shields.io/badge/viewer__image__2.0.19__2021--09--30.js-N%46%42%52.a6G.Initializer.c8t.renderer.currentScreen.canvas-inactive?style=plastic)](#)
+> #### [![a6G.Initializer.F5W.renderer.currentScreen.canvas](https://img.shields.io/badge/viewer__image__2.0.17__2021--03--05.js-N%46%42%52.a6G.Initializer.F5W.renderer.currentScreen.canvas-inactive?style=plastic)](#)
 
 - Status
 > Working
@@ -47,11 +47,11 @@
 
 - Latast Pointer
 
-> #### `NFBR.a6G.a5x.prototype.G1W` (viewer_image_2.0.20_2021-10-26.js)
-> #### `NFBR.a6G.a5x.prototype.S4z` (viewer_image_2.0.19_2021-09-30.js)
-> #### `NFBR.a6G.a5x.prototype.U8j` (viewer_image_2.0.17_2021-03-05.js)
-> #### `NFBR.a6G.a5x.prototype.b9b` (viewer_image_2.0.10_2019-09-18.js)
-> #### `NFBR.a6G.a5x.prototype.b0F` (viewer_image_v0.1.10_2018-11-15.js)
+> #### [![a6G.a5x.prototype.G1W](https://img.shields.io/badge/viewer__image__2.0.20__2021--10--26.js-N%46%42%52.a6G.a5x.prototype.G1W-success?style=plastic)](#)
+> #### [![a6G.a5x.prototype.S4z](https://img.shields.io/badge/viewer__image__2.0.19__2021--09--30.js-N%46%42%52.a6G.a5x.prototype.S4z-inactive?style=plastic)](#)
+> #### [![a6G.a5x.prototype.U8j](https://img.shields.io/badge/viewer__image__2.0.17__2021--03--05.js-N%46%42%52.a6G.a5x.prototype.U8j-inactive?style=plastic)](#)
+> #### [![a6G.a5x.prototype.b9b](https://img.shields.io/badge/viewer__image__2.0.10__2019--09--18.js-N%46%42%52.a6G.a5x.prototype.b9b-inactive?style=plastic)](#)
+> #### [![a6G.a5x.prototype.b0F](https://img.shields.io/badge/viewer__image__v0.1.10__2018--11--15.js-N%46%42%52.a6G.a5x.prototype.b0F-inactive?style=plastic)](#)
 
 - Status
 
@@ -67,11 +67,11 @@
 
 ### Route C
 
-Reference: [@fireattack](https://fireattack.wordpress.com/2021/08/27/a-better-way-to-dump-bookwalker/)
+Reference: [@fireattack](https://fireattack.wordpress.com/2021/08/27/a-better-way-to-dump-b%6f%6fkwalker/)
 
 - Flow
 
-> #### `Get puzzled Images from NFBR` => `solve puzzle at local`
+> #### `Get puzzled Images from viewer attributes` => `solve puzzle at local`
 
 - Purpose
 
@@ -110,7 +110,7 @@ Reference: [@fireattack](https://fireattack.wordpress.com/2021/08/27/a-better-wa
 
 - Status
 
-> #### Alternated. Working for purchased books, daily 10-minutes novel reading and monthly houdai plan contents (`Obtain from NFBR`)
+> #### Alternated. Working for purchased books, daily 10-minutes novel reading and monthly houdai plan contents (`Obtain from viewer attributes`)
 
 ## 3. Extra
 
@@ -121,4 +121,4 @@ Reference: [@fireattack](https://fireattack.wordpress.com/2021/08/27/a-better-wa
 
 - Status
 
-> #### Alternated (`Obtain from NFBR`)
+> #### Alternated (`Obtain from viewer attributes`)
