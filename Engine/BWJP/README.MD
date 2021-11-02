@@ -15,7 +15,7 @@
 
 - Purpose
 
-> #### It work like `Photocopying`, most easy flow but hard to work perfectly, we wait bookwalker generating the **result** and we copy one for ourself.
+> #### It work like `Photocopying`, most easy flow but hard to work perfectly, we wait web-viewer generating the **result** and we copy one for ourself.
 
 - Latest Pointer
 
@@ -43,7 +43,7 @@
 
 - Purpose
 
-> #### It work like `Robbing`, the most difficulty part is locating where we should "rob", we wait for bookwalker split the puzzled image and decrypt the coordinates, intercepting the image print out and load it into ours code.
+> #### It work like `Robbing`, the most difficulty part is locating where we should "rob", we wait for web-viewer split the puzzled image and decrypt the coordinates, intercepting the image print out and load it into ours code.
 
 - Latast Pointer
 
