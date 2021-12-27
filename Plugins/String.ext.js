@@ -1,5 +1,5 @@
 //String.ext.js
-let ver_string = "20210615.0";
+let ver_string = "20211228.0";
 console.log("String.extension", ver_string, "loaded");
 
 //escapeRegExp
@@ -22,13 +22,16 @@ function pad(s, c, i) {
 
 //String.prototype.toHalfWidth [new define]
 //Usage: Convert all Full-Length Characters to Half-Length Characters in string
-//Params: options(object) {oswin:Boolean, space:Boolean}
+//Params: options(object) {oswin:Boolean, space:Boolean, prepend:{match:replace}}
 //Output: output(string)
 Object.defineProperty(String.prototype, "toHalfWidth", {value:function(options={}) {
   let string = this;
   let exception = "";
   let range = "\uff01-\uff5e";
   let offset = 0xfee0;
+  if(options.prepend) {
+    Object.keys(prepend).forEach(k=>string.replace(new RegExp(k, 'g'), prepend[k]));
+  }
   if(options.oswin) {
     exception += "\uff01\uff02\uff0a\uff0f\uff1a\uff1c\uff1e\uff1f\uff3c\uff5c"; //Windows Filename, 01! 02" 0a* 0f/ 1a: 1c< 1e> 1f? 3c\ 5c|
   }
