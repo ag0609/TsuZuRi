@@ -1,5 +1,5 @@
 //String.ext.js
-let ver_string = "20211228.0";
+let ver_string = "20211228.2";
 console.log("String.extension", ver_string, "loaded");
 
 //escapeRegExp
@@ -30,10 +30,10 @@ Object.defineProperty(String.prototype, "toHalfWidth", {value:function(options={
   let range = "\uff01-\uff5e";
   let offset = 0xfee0;
   if(options.prepend) {
-    Object.keys(prepend).forEach(k=>string.replace(new RegExp(k, 'g'), prepend[k]));
+    Object.keys(options.prepend).forEach(k=>string.replace(new RegExp(k, 'g'), options.prepend[k]));
   }
   if(options.oswin) {
-    exception += "\uff01\uff02\uff0a\uff0f\uff1a\uff1c\uff1e\uff1f\uff3c\uff5c"; //Windows Filename, 01! 02" 0a* 0f/ 1a: 1c< 1e> 1f? 3c\ 5c|
+    exception += "\uff02\uff0a\uff0f\uff1a\uff1c\uff1e\uff1f\uff3c\uff5c"; //Windows Filename, 02" 0a* 0f/ 1a: 1c< 1e> 1f? 3c\ 5c|
   }
   if(options.space) string.replace(/\u3000/g, '\u0020');
   const regex = new RegExp("(?!["+exception+"])["+range+"]", "g");
