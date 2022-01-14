@@ -1,10 +1,6 @@
 # BW JP
 
-[![Install BNDL](https://img.shields.io/badge/Install-BNDL%20(Bootstrap%20Ver.)-green?style=plastic)](https://github.com/ag0609/Project-BNDL/raw/master/BNDL_UserScript/Test/BNDL_PB.user.js)
-
-- Encryption Rank ([Ranking Specification](https://www.bilibili.com/read/cv7181895)[Simplfied Chinese])
-
-> Class A
+[![Install BNDL](https://img.shields.io/badge/Install-BNDL%20(Bootstrap%20Ver.)-green?style=plastic)](https://github.com/ag0609/Project-BNDL/raw/master/BNDL_UserScript/Test/BNDL_PB.user.js) [![Last Updated](https://img.shields.io/badge/Lastest%20Version-20220110.6-green?style=plastic)](#) [![Mosaic Level - Rank A](https://img.shields.io/badge/Mosaic%20Level-Rank%20A-critical?style=plastic)](https://www.bilibili.com/read/cv7181895)
 
 ## 1. Page Capture
 
@@ -19,7 +15,7 @@
 
 - Latest Pointer
 
-> #### `$(".currentScreen > canvas")[0]`
+> #### [![$(".currentScreen > canvas")[0]](https://img.shields.io/badge/jQuery-$(".currentScreen%20>%20canvas")[0]-success?style=plastic)](#)
 > #### [![a6G.Initializer.Z4p.renderer.currentScreen.canvas](https://img.shields.io/badge/viewer__image__2.0.20__2021--10--26.js-N%46%42%52.a6G.Initializer.Z4p.renderer.currentScreen.canvas-success?style=plastic)](#)
 > #### [![a6G.Initializer.c8t.renderer.currentScreen.canvas](https://img.shields.io/badge/viewer__image__2.0.19__2021--09--30.js-N%46%42%52.a6G.Initializer.c8t.renderer.currentScreen.canvas-inactive?style=plastic)](#)
 > #### [![a6G.Initializer.F5W.renderer.currentScreen.canvas](https://img.shields.io/badge/viewer__image__2.0.17__2021--03--05.js-N%46%42%52.a6G.Initializer.F5W.renderer.currentScreen.canvas-inactive?style=plastic)](#)
