@@ -124,7 +124,7 @@ Reference: [@fireattack](https://fireattack.wordpress.com/2021/08/27/a-better-wa
 - Status
 
 > #### Alternated (`Obtain from viewer attributes`)
-> #### [![menu.model.attributes.a2u.book.content.normal_default.R0y](https://img.shields.io/badge/viewer__image__2.0.25__2023--10--06.js-menu.model.attributes.a2u.book.content.normal_default.R0y-success?style=plastic)](#)
+> #### [![menu.model.attributes.a2u.book.content.normal_default.b4p](https://img.shields.io/badge/viewer__image__2.0.25__2023--10--06.js-menu.model.attributes.a2u.book.content.normal_default.b4p-success?style=plastic)](#)
 > #### [![menu.model.attributes.a2u.book.content.normal_default.R0y](https://img.shields.io/badge/viewer__image__2.0.24__2023--02--22.js-menu.model.attributes.a2u.book.content.normal_default.R0y-inactaive?style=plastic)](#)
 > #### [![menu.model.attributes.a2u.book.content.normal_default.T2u](https://img.shields.io/badge/viewer__image__2.0.23__2023--02--15.js-menu.model.attributes.a2u.book.content.normal_default.T2u-inactive?style=plastic)](#)
 > #### [![menu.model.attributes.a2u.book.content.normal_default.L1u](https://img.shields.io/badge/viewer__image__2.0.20__2021--10--26.js-menu.model.attributes.a2u.book.content.normal_default.L1u-inactive?style=plastic)](#)
