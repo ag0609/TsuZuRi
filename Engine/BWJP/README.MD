@@ -16,7 +16,8 @@
 - Latest Pointer
 
 > #### [![$(".currentScreen > canvas")[0]](https://img.shields.io/badge/jQuery-$(".currentScreen%20>%20canvas")[0]-success?style=plastic)](#)
-> #### [![a6G.Initializer.G4f.renderer.currentScreen.canvas](https://img.shields.io/badge/viewer__image__2.0.25__2023--10--06.js-N%46%42%52.a6G.Initializer.G4f.renderer.currentScreen.canvas-success?style=plastic)](#)
+> #### [![a6G.Initializer.K3B.renderer.currentScreen.canvas](https://img.shields.io/badge/viewer__image__2.0.26__2023--11--21.js-N%46%42%52.a6G.Initializer.K3B.renderer.currentScreen.canvas-success?style=plastic)](#)
+> #### [![a6G.Initializer.G4f.renderer.currentScreen.canvas](https://img.shields.io/badge/viewer__image__2.0.25__2023--10--06.js-N%46%42%52.a6G.Initializer.G4f.renderer.currentScreen.canvas-inactive?style=plastic)](#)
 > #### [![a6G.Initializer.L7v.renderer.currentScreen.canvas](https://img.shields.io/badge/viewer__image__2.0.24__2023--02--22.js-N%46%42%52.a6G.Initializer.L7v.renderer.currentScreen.canvas-inactive?style=plastic)](#)
 > #### [![a6G.Initializer.d9M.renderer.currentScreen.canvas](https://img.shields.io/badge/viewer__image__2.0.23__2023--02--15.js-N%46%42%52.a6G.Initializer.d9M.renderer.currentScreen.canvas-inactive?style=plastic)](#)
 > #### [![a6G.Initializer.Z4p.renderer.currentScreen.canvas](https://img.shields.io/badge/viewer__image__2.0.20__2021--10--26.js-N%46%42%52.a6G.Initializer.Z4p.renderer.currentScreen.canvas-inactive?style=plastic)](#)
@@ -46,7 +47,8 @@
 
 - Latast Pointer
 
-> #### [![a6G.a5x.prototype.A7Y](https://img.shields.io/badge/viewer__image__2.0.25__2023--10--06.js-N%46%42%52.a6G.a5x.prototype.A7Y-success?style=plastic)](#)
+> #### [![a6G.a5x.prototype.A7Y](https://img.shields.io/badge/viewer__image__2.0.26__2023--11--21.js-N%46%42%52.a6G.a5x.prototype.k3o-success?style=plastic)](#)
+> #### [![a6G.a5x.prototype.A7Y](https://img.shields.io/badge/viewer__image__2.0.25__2023--10--06.js-N%46%42%52.a6G.a5x.prototype.A7Y-inactive?style=plastic)](#)
 > #### [![a6G.a5x.prototype.X0x](https://img.shields.io/badge/viewer__image__2.0.24__2023--02--22.js-N%46%42%52.a6G.a5x.prototype.X0x-inactive?style=plastic)](#)
 > #### [![a6G.a5x.prototype.s1V](https://img.shields.io/badge/viewer__image__2.0.23__2023--02--15.js-N%46%42%52.a6G.a5x.prototype.s1V-inactive?style=plastic)](#)
 > #### [![a6G.a5x.prototype.G1W](https://img.shields.io/badge/viewer__image__2.0.20__2021--10--26.js-N%46%42%52.a6G.a5x.prototype.G1W-inactive?style=plastic)](#)
@@ -124,7 +126,8 @@ Reference: [@fireattack](https://fireattack.wordpress.com/2021/08/27/a-better-wa
 - Status
 
 > #### Alternated (`Obtain from viewer attributes`)
-> #### [![menu.model.attributes.a2u.book.content.normal_default.b4p](https://img.shields.io/badge/viewer__image__2.0.25__2023--10--06.js-menu.model.attributes.a2u.book.content.normal_default.b4p-success?style=plastic)](#)
+> #### [![menu.model.attributes.a2u.book.content.normal_default.P9P](https://img.shields.io/badge/viewer__image__2.0.26__2023--11--21.js-menu.model.attributes.a2u.book.content.normal_default.P9P-success?style=plastic)](#)
+> #### [![menu.model.attributes.a2u.book.content.normal_default.b4p](https://img.shields.io/badge/viewer__image__2.0.25__2023--10--06.js-menu.model.attributes.a2u.book.content.normal_default.b4p-inactaive?style=plastic)](#)
 > #### [![menu.model.attributes.a2u.book.content.normal_default.R0y](https://img.shields.io/badge/viewer__image__2.0.24__2023--02--22.js-menu.model.attributes.a2u.book.content.normal_default.R0y-inactaive?style=plastic)](#)
 > #### [![menu.model.attributes.a2u.book.content.normal_default.T2u](https://img.shields.io/badge/viewer__image__2.0.23__2023--02--15.js-menu.model.attributes.a2u.book.content.normal_default.T2u-inactive?style=plastic)](#)
 > #### [![menu.model.attributes.a2u.book.content.normal_default.L1u](https://img.shields.io/badge/viewer__image__2.0.20__2021--10--26.js-menu.model.attributes.a2u.book.content.normal_default.L1u-inactive?style=plastic)](#)
